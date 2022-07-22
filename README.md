@@ -21,7 +21,7 @@ sudo ./ build.sh
 sudo./run.sh
 ~~~
 
-Once the container is up and running the 'IP address:port' can be obtained by running the following command.  You may have to do this in a second terminal window.
+Once the container is up and running the 'IP:port' can be obtained by running the following command.  You may have to do this in a second terminal window.
 
 ~~~ bash
 sudo docker ps -a
