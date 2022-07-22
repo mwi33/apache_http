@@ -27,6 +27,6 @@ Once the container is up and running the 'IP:port' can be obtained by running th
 sudo docker ps -a
 ~~~
 
-Entering the IP:port will show the 'Apache' home page.  IP:port/browse.php will show the webserver directory structure and contents.
+Entering the IP:port in a browser will show the 'Apache' home page.  Additionally, adding IP:port/browse.php in the browser will show the webserver directory structure and contents.
 # Recognition
 This Image includes code developed by [spacedevin](https://github.com/spacedevin), specifically, [PHPPowerBrowse](https://github.com/spacedevin/PHPPowerBrowse/blob/master/README.txt).  This code has been included without change and in accordance with the described conditions.
