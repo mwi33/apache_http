@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t apache_image .
+docker build -t mwi33/apache_http .
